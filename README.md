@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vladsavy
 - 👀 I’m interested in mobile/web development.
-- 🌱 I’m currently learning everything.
+- 🌱 I’m currently learning AI/ML.
 - 💞️ I’m looking to collaborate on ambitious projects.
 
 <!---
